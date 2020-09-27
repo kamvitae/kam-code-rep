@@ -1,0 +1,1 @@
+Pierwszy zmiana w pliku i commit
