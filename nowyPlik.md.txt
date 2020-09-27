@@ -1,0 +1,2 @@
+chcę go przepchnąć na inną gałąź
+wygląda na to że się udało. teraz ją zmerguję z masterem
